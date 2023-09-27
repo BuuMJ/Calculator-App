@@ -2,5 +2,7 @@
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval" >
-    <solid android:color="#ff9f09"/>
+    <stroke android:color="@color/white"
+        android:width="12px"/>
+    <solid android:color="@color/lightpink"/>
 </shape>
